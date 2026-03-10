@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sample-f150-001",
+    "vin": "1FTFW1E50MFA00001",
+    "year": 2021,
+    "make": "Ford",
+    "model": "F-150",
+    "trim": "XLT",
+    "price": 38995,
+    "mileage": 42110,
+    "stockNumber": "WILL-001",
+    "photoUrls": [
+      "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1200&q=60"
+    ],
+    "createdAt": "2026-01-01T00:00:00Z"
+  }
+]
